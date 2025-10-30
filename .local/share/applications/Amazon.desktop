@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Amazon
+Comment=Amazon
+Exec=omarchy-launch-webapp https://amazon.com
+Terminal=false
+Type=Application
+Icon=/home/ivo/.local/share/applications/icons/Amazon.png
+StartupNotify=true

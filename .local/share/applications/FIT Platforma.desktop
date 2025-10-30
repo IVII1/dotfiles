@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=FIT Platforma
+Comment=FIT Platforma
+Exec=omarchy-launch-webapp https://fitmoodle.unimediteran.me/my/
+Terminal=false
+Type=Application
+Icon=/home/ivo/.local/share/applications/icons/FIT Platforma.png
+StartupNotify=true

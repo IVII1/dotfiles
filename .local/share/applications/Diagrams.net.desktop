@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Diagrams.net
+Comment=Diagrams.net
+Exec=omarchy-launch-webapp https://app.diagrams.net/?src=about
+Terminal=false
+Type=Application
+Icon=/home/ivo/.local/share/applications/icons/Diagrams.net.png
+StartupNotify=true

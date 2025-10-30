@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=1v9
+Comment=1v9
+Exec=omarchy-launch-webapp https://1v9.gg/
+Terminal=false
+Type=Application
+Icon=/home/ivo/.local/share/applications/icons/1v9.png
+StartupNotify=true

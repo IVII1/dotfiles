@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Speedtest
+Comment=Speedtest
+Exec=omarchy-launch-webapp https://www.speedtest.net/
+Terminal=false
+Type=Application
+Icon=/home/ivo/.local/share/applications/icons/Speedtest.png
+StartupNotify=true

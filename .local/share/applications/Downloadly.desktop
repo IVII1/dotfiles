@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Downloadly
+Comment=Downloadly
+Exec=omarchy-launch-webapp https://downloadlynet.ir/
+Terminal=false
+Type=Application
+Icon=/home/ivo/.local/share/applications/icons/Downloadly.png
+StartupNotify=true

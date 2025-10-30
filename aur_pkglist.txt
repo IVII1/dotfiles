@@ -1,0 +1,4 @@
+beekeeper-studio-bin 5.4.9-1
+jetbrains-toolbox 3.0.1.59888-1
+postman-bin 11.69.2-1
+slack-desktop 4.46.101-1

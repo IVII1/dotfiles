@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Ebay
+Comment=Ebay
+Exec=omarchy-launch-webapp https://ebay.com
+Terminal=false
+Type=Application
+Icon=/home/ivo/.local/share/applications/icons/Ebay.png
+StartupNotify=true

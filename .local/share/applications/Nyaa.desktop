@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Nyaa
+Comment=Nyaa
+Exec=omarchy-launch-webapp https://nyaa.si/
+Terminal=false
+Type=Application
+Icon=/home/ivo/.local/share/applications/icons/Nyaa.png
+StartupNotify=true
