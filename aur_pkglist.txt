@@ -1,4 +1,0 @@
-beekeeper-studio-bin
-jetbrains-toolbox
-postman-bin
-slack-desktop
